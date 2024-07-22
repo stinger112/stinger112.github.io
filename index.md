@@ -164,6 +164,23 @@ Test Format:
 - Periodically review others projects to see overall picture and make informed proposals.
 
 
+## My professional principles
+### Development
+- If some person doesn't finish something, his colleague will have to do it, but with more time and effort.
+- The task can be considered as done if and only if it's covered by at least one e2e test.
+- Every PR has to be reviewed by peer. The peer becomes responsible for missed bugs and fix them.
+- The proper QA process can take up to 30% of the work time. But it's not something you can save money on by simply clicking the “Approve” button.
+
+### Communication
+- If speaker presents something important or strategic, they must provide materials in advance and test the audience for understanding in the end.
+- The more people involved in the discussion, the more it costs the company. So, prior preparation and a strict moderator are crucial.
+- Long or complex discussions always need breaks. The main goal is to get a good understanding, otherwise it's just the waste of time.
+- If the topic is completely unclear, just stop it and ask for introductory material.
+
+### Self-Assessment
+- There is only one true KPI: it is the profit created by the project.
+
+
 ## Open source activities
 - Iroha
 - Benchmark (Linux Foundation)
