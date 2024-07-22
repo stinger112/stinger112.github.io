@@ -1,5 +1,6 @@
 ---
-title: My CV Draft
+layout: default
+title: Home
 ---
 
 # CV Draft
