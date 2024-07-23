@@ -1,0 +1,6 @@
+# Node and Webpack generated files
+node_modules/
+assets/js/bundle.js
+
+# Jekyll generated files
+_site/
