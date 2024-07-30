@@ -7,18 +7,37 @@ title: Home
 
 
 ## Profile
-Me is awesome! # TODO: Add a better description of how awesome I am.
+TODO: Add a better description of how awesome I am.
+
+Me is awesome!
 
 
 ## Contacts
-- github https://github.com/stinger112
-- Ln https://www.linkedin.com/in/stinger112/
-- orchid / etc https://orcid.org/0000-0002-7868-6482 # TODO: Some of my articles aren't listed!
+- [github](https://github.com/stinger112)
+- [Ln](https://www.linkedin.com/in/stinger112/)
+-- TODO: Some of my articles aren't listed!
+- [orchid](https://orcid.org/0000-0002-7868-6482)
 - upwork (abadoned)
 
 
+## Open Source Portfolio
+
+- [Iroha](https://github.com/hyperledger-archives/iroha)
+- [Caliper Benchmark](https://github.com/hyperledger/caliper)
+-- TODO: Add my dotfiles when they are published
+
+
+## Experience
+-- TODO: Add total experience (~9.5 years) as SEO tag also
+-- TODO: Test imports
+
+{% include experience-projects.md %}
+
+{% include experience-companies.md %}
+
+
 ## Level of English
-- # TODO: Pass some tests to make sure
+-- TODO: Pass some tests to make sure
 
 
 ## Education
@@ -35,93 +54,6 @@ Novosibisrk State University (Akademgorodok)
 - Software part of bachelor's diploma # TODO: Add communication protocol
 - Autonio Foundation
     - articles (with links)
-
-
-## Experience by companies # TODO: Add total experience ~9.5 years
-
-------------
-2013-04 - 2014-11
-- Mobilon 
-    - VoIP software with corporate features (QT-based client)
-    - Connector library between telecom infrastructure and accounting software (C# / 1C / Microsoft Common Objects)
-    - NodeJS based softphone
-
-
-------------
-2015-04 - 2015-10
-- Siberian Pro 
-    - Fullstack on Desheli CRM system
-
-
-------------
-2015-11 - 2016-02
-at VipIP
-    - Desktop client for click farm (QT Webkit, C#)
-
-
-------------
-2016-02 - 2016-10
-at Roborzoid
-
-
-------------
-2016-10 - 2017-02
-at GOST Group
-    - social control systems
-    - Government CRM system to control resources consumption by gov buildings (?)
-
-
-------------
-2017-02 - 2017-06
-at Roborzoid
-
-
-------------
-2017-08 - 2018-09
-at Soramitsu
-    - Frontend for Cambodia national bank
-    - Contributing to Iroha core
-    - Working on opensource blockchain Benchmark system for **Linux Foundation**
-
-
-------------
-2018-12 - 2020-03
-at Metro Engines
-    - The algorithm (software) to determine the true value for hotel rooms prices / counts
-
-
-------------
-2020-08 - 2021-05
-- Metro Engines
-    - Установить параметры периодического колебания цен на отели
-    - Using FBProphet with modified Stan models for prediction time series
-    - Guiding Junior data scientist / software developer (his profile)
-
-
-------------
-2021-05 - 2022-02
-(ask Anton which projects and also recommendation)
-- Autonio Foundation
-    - Scalper of Uniswap data from The Graph to company DB (TypeScript)
-    - Adaptive Agents
-
-
-------------
-2022-02 - 2022-05
-- Novel (RND company with students)
-    - Audit IT infrastructure
-    - Catalogization of physical and logical resources on-premise
-    - Improve security loopholes ?
-    - Tune on-premises infra
-    - Isolate users by optimized containers
-    - Onceta
-
-
-------------
-2022-05 - 2024-05
-at SingularityDAO
-    - Adaptive Agents
-    - Treasury Management
 
 
 ## Breakdown by projects
@@ -178,7 +110,6 @@ Test Format:
 - If the topic is completely unclear, just stop it and ask for introductory material.
 
 ### Self-Assessment
-- There is only one true KPI: it is the profit created by the project.
 
 
 ## Open source activities
